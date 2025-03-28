@@ -19,7 +19,7 @@ INSERT INTO libros (titulo, autor, genero) VALUES
 ('Los hombres me explican cosas', 'Rebecca Solnit', 'Ensayo'),
 ('A las ocho en el Bule', 'Xabier Silveira', 'Narrativa'),
 ('Politica del malestar', 'Alicia Valdes', 'Politica'),
-('Ostegunak', 'Jon Arretxe', 'Euskal literatura');
+('Ostegunak', 'Jon Arretxe', 'Euskal literatura'),
 ('Fahrenheit 451', 'Ray Bradbury', 'Ciencia ficcion'),
 ('El nombre de la rosa', 'Umberto Eco', 'Novela historica'),
 ('Ensayo sobre la ceguera', 'José Saramago', 'Filosofia'),
