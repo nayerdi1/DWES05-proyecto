@@ -2,7 +2,8 @@
 
 Instalación
 
-Después de clonar o descargar el proyecto, colocate en la carpeta del proyecto y ejecuta el siguiente comando para instalar todas las dependencias de PHP que se encuentran en el archivo composer.json:
+Después de clonar o descargar el proyecto copia la carpeta en el directorio C:/xampp/htdocs. 
+Abre el proyecto en VSCode y una vez en la carpeta del proyecto ejecuta el siguiente comando en el terminal para instalar todas las dependencias de PHP que se encuentran en el archivo composer.json:
 
 composer install
 
